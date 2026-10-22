@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "CI-EnSF reproducibility repository"
+message: "If you use this software or data, please cite both the software and the paper it accompanies."
+type: software
+authors:
+  - family-names: Liang
+    given-names: Siming
+    affiliation: "Computer Science and Mathematics Division, Oak Ridge National Laboratory"
+  - family-names: van Leeuwen
+    given-names: "Peter Jan"
+    affiliation: "Department of Atmospheric Science, Colorado State University"
+  - family-names: Chipilski
+    given-names: "Hristo G."
+    affiliation: "Department of Scientific Computing, Florida State University"
+  - family-names: Zhang
+    given-names: Zezhong
+    affiliation: "Department of Mathematics and Statistics, Auburn University"
+  - family-names: Bao
+    given-names: Feng
+    affiliation: "Department of Mathematics, Florida State University"
+  - family-names: Zhang
+    given-names: Guannan
+    affiliation: "Computer Science and Mathematics Division, Oak Ridge National Laboratory"
+abstract: >-
+  Notebooks, driver code and cached results that reproduce every table and figure of
+  "Covariance-Informed Ensemble Score Filtering: Embedding Localized Covariance Geometry
+  into Score-Based Transport". Each notebook is committed in an executed state and
+  rebuilds its table and figure from the data beside it.
+keywords:
+  - data assimilation
+  - ensemble score filter
+  - diffusion model
+  - covariance localization
+  - surface quasi-geostrophic turbulence
+license: MIT
+copyright: "Copyright (c) 2026 UT-Battelle, LLC"
+version: "1.0.0"
