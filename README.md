@@ -115,7 +115,8 @@ it was produced under and `sqg/nature_cache.py` checks it on load, so a mismatch
 rather than being used silently. They can also be regenerated with `sqg/nature_cache.py`
 (linear) and `sqg/ak_nature.py` (arctan), which is why `RUN_SIMULATION = True` needs a GPU.
 
-The notebooks as committed do not need them.
+The notebooks as committed do not need them. The nature run data can be downloaded at
+https://doi.org/10.5281/zenodo.23576864
 
 ---
 
